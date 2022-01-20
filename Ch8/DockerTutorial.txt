@@ -1,0 +1,4 @@
+https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu
+https://www.howtoforge.com/tutorial/how-to-create-docker-images-with-dockerfile/
+https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
+
